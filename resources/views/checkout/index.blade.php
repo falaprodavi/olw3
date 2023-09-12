@@ -13,7 +13,7 @@
                 <div class="mx-auto max-w-2xl px-4 lg:max-w-none lg:px-0">
 
                     <dl>
-                        <dt class="text-lg font-medium text-primary-200">Resumo Pedido</dt>
+                        <dt class="text-lg font-medium text-primary-200">Resumo do seu Pedido</dt>
                     </dl>
 
                     <x-checkout.product-list>
